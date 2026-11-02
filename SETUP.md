@@ -66,7 +66,7 @@ re-create from scratch (that re-creation *is* the reset proof).
       → expected result: **fails with "No text content found"** (the
       collector's Ghostscript renderer can't read image-only PDFs —
       the same failure the Core hit on its BOIR scan).
-- [ ] Upload `documents-scanned/pages/*.png` (the extracted page images)
+- [ ] Upload `documents-scanned/Pages/*.png` (the extracted page images)
       → these embed via image OCR. Ask "What form do we use for an
       incident, and when is it due?" and confirm it can now answer
       from the scanned content.

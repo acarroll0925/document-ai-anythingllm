@@ -22,7 +22,7 @@ content embeds and retrieves normally.
 
 - `07-incident-report-procedure-SCANNED.pdf` — the image-only PDF. Upload
   this first and watch it fail.
-- `pages/07-incident-report-procedure-p1.png`, `…-p2.png` — the page
+- `Pages/07-incident-report-procedure-p1.png`, `…-p2.png` — the page
   images at 200 dpi, ready to upload as the workaround (equivalent to the
   extracted + upscaled pages in the Core fix).
 
